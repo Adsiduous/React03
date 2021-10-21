@@ -1,5 +1,9 @@
-This is for Adsiduous repository
+#This is for Adsiduous repository
 
-# first commit on 19 Oct 2021 by Naveen
+https://adsiduous.ind.im
 
-# third commit on 20 Oct 2021 by Naveen
+first commit on 19 Oct 2021 by Naveen
+
+third commit on 20 Oct 2021 by Naveen
+
+fourth commit on 21 oct 2021 by Naveen
